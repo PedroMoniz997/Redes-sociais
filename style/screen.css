@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0px; 
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ ::-webkit-scrollbar{
+     width: 0;
+     height: 0;
+ }
+
+ img {
+     width: 100vw;
+ }
+
+ a {
+     display: block;
+     background-color: #8b0000;
+     color: white;
+     padding: 20px;
+     font-weight: bold;
+     text-align: center;
+     text-decoration: none;
+ }
